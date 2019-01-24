@@ -10,10 +10,15 @@ This is a simple camera application for Android, which is linked to [IBM Watson 
 A model has been trained using this dataset :
 
 [https://drive.google.com/open?id=1-_JkQ7E8N0toHYVHFKTuzugOg_OQMfEO](https://drive.google.com/open?id=1-_JkQ7E8N0toHYVHFKTuzugOg_OQMfEO)
+
 https://drive.google.com/open?id=1GUXLuv95ixrZYHcpM0JnWHUHoc_hk--k
+
 https://drive.google.com/open?id=1n-4PwJUWzmUQuHnLwhnzQeVrYt_qrn_z
+
 https://drive.google.com/open?id=1YjCo09Rh9pdtU44jR3eoG8GqmVchxhj_
+
 https://drive.google.com/open?id=1SmHncEczhsGXXTBUUsaVFUPBVh-PWWF1
+
 https://drive.google.com/open?id=1PMs6Q3Z08skZWCAmjBtd8-Sff9R_I6Z5
 
 It contains 6 classes (1 - 5 - 10 - 50 - 100 - 500 Yen). Each class has 300 images.
