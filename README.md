@@ -23,6 +23,5 @@ https://drive.google.com/open?id=1PMs6Q3Z08skZWCAmjBtd8-Sff9R_I6Z5
 
 It contains 6 classes (1 - 5 - 10 - 50 - 100 - 500 Yen). Each class has 300 images.
 
-
-  
+** Due to the API calls number limition for the free plan, I didn't have the chance to test the model for accuracy percentage. I'll test it later once the counter resets **
 
